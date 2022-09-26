@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+header{
+  display: flex;
+  justify-content:  space-around;
+  align-items: center;
+  padding: 20px;
+ 
+}
+.nav a{
+  margin: 5px;  
+  text-decoration: none;
+}
+
+.capa img{
+  position: relative;
+  width: 900px;
+  margin: auto 20vw;
+
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(img/fundo2.png);
+}
+.main h2{
+  margin: 20px 0px;
+}
+.main{
+  margin;
+  margin: auto 20vw;
+}
+.main p{
+  margin: 10px 0px;
+
+}
+
+.footer h4{
+  margin-top: 30px;
+  position: relative;
+  text-align: center;
+}
+.list{
+  
+  margin: 35px;
+}
+
+form{
+  
+  width: 100%;
+
+}
+
+button{
+  padding: 5px;
+
+}
